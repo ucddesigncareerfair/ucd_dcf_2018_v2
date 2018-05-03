@@ -1777,8 +1777,8 @@ h3 {padding: 0; margin: 0;}
   float: left;
   overflow: hidden;
   margin: 10px 1%;
-  min-width: 210px;
-  max-width: 450px;
+  min-width: 275px;
+  max-width: 400px;
   width: 100%;
   color: black;
   text-align: center;
@@ -1810,6 +1810,7 @@ h3 {padding: 0; margin: 0;}
 .snip1345 .profile {
   border-radius: 50%;
   position: absolute;
+  max-width: 100px;
   bottom: 50%;
   left: 50%;
 
