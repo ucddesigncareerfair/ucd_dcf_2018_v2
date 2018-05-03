@@ -1777,13 +1777,13 @@ h3 {padding: 0; margin: 0;}
   float: left;
   overflow: hidden;
   margin: 10px 1%;
-  min-width: 400px;
-  max-width: 400px;
+  min-width: 450px;
   width: 100%;
-  color: white;
+  color: black;
   text-align: center;
   line-height: 1.4em;
   background-color: white;
+  align-items: left;
 }
 .snip1345 * {
   -webkit-box-sizing: border-box;
@@ -1810,7 +1810,7 @@ h3 {padding: 0; margin: 0;}
   position: absolute;
   bottom: 50%;
   left: 50%;
-  max-width: 100px;
+  max-width: 150px;
   opacity: 1;
   box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.5);
   border: 2px solid rgba(255, 255, 255, 0.5);
