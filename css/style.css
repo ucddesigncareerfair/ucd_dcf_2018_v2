@@ -249,6 +249,10 @@ a {
   text-decoration:none;
 }
 
+a href {
+  text-decoration:none;
+}
+
 .dcf-table, .dcf-table-all {
   border-collapse: collapse;
   border-spacing: 0;
